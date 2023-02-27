@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.config-controller-bg {
+  background-color: #475569;
+  padding: 15px 7.5%;
+}
+
+.all-checkbox-containers {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-weight: 500;
+}
+
+.checkbox-label-cont {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.checkbox {
+  margin-right: 8px;
+}
+
+.label {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-weight: 400;
+}
